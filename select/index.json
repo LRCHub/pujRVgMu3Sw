@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "XXL",
+  "base_artist": "YOUNG POSSE",
+  "createdAt": "2026-03-12T09:04:02.465415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "XXL",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/01_XXL_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go Up (XXL)",
+      "artist": "Cassius feat. Cat Power & Pharrell Williams",
+      "has_synced": false,
+      "path": "select/02_Go_Up_(XXL)_Cassius_feat._Cat_Power_&_Pharrell_Williams.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go Up (XXL)",
+      "artist": "Cassius",
+      "has_synced": false,
+      "path": "select/03_Go_Up_(XXL)_Cassius.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "sunday (album version) - xxl",
+      "artist": "lo pro",
+      "has_synced": false,
+      "path": "select/04_sunday_(album_version)_-_xxl_lo_pro.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shalala Lala - XXL Version",
+      "artist": "Vengaboys",
+      "has_synced": true,
+      "path": "select/05_Shalala_Lala_-_XXL_Version_Vengaboys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uncle John from Jamaica (XXL Version)",
+      "artist": "Vengaboys",
+      "has_synced": false,
+      "path": "select/06_Uncle_John_from_Jamaica_(XXL_Version)_Vengaboys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Richtig Scheiße (auf 'ne schöne Art und Weise) [XXL Rockmix]",
+      "artist": "Killerpilze",
+      "has_synced": false,
+      "path": "select/07_Richtig_Scheiße_(auf_'ne_schöne_Art_und_Weise)_[XXL_Rockmix]_Killerpilze.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Big King XXL",
+      "artist": "SSIO",
+      "has_synced": true,
+      "path": "select/08_Big_King_XXL_SSIO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "XXL",
+      "artist": "KUKU$",
+      "has_synced": false,
+      "path": "select/09_XXL_KUKU$.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Night in Bangkok (XXL mix)",
+      "artist": "Vinylshakerz",
+      "has_synced": true,
+      "path": "select/10_One_Night_in_Bangkok_(XXL_mix)_Vinylshakerz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Night in Bangkok (Vinylshakerz XXL Mix)",
+      "artist": "Vinylshakerz",
+      "has_synced": true,
+      "path": "select/11_One_Night_in_Bangkok_(Vinylshakerz_XXL_Mix)_Vinylshakerz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lass uns sündigen (XXL version)",
+      "artist": "Michael Wendler",
+      "has_synced": false,
+      "path": "select/12_Lass_uns_sündigen_(XXL_version)_Michael_Wendler.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mein Gedudel - XXL-Version",
+      "artist": "Spongebob Squarepants",
+      "has_synced": false,
+      "path": "select/13_Mein_Gedudel_-_XXL-Version_Spongebob_Squarepants.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "XXL",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/14_XXL_LANY.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "XXL",
+      "artist": "Mylène Farmer",
+      "has_synced": true,
+      "path": "select/15_XXL_Mylène_Farmer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "XXL",
+      "artist": "Mylene Farmer",
+      "has_synced": true,
+      "path": "select/16_XXL_Mylene_Farmer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "XXL",
+      "artist": "YOUNG POSSE",
+      "has_synced": false,
+      "path": "select/pl_01_XXL_YOUNG_POSSE.txt"
+    }
+  ]
+}
